@@ -1,0 +1,39 @@
+
+table{
+        border-collapse:collapse;
+        table-layout:fixed;
+        }
+td,th{
+        padding:10px;
+        border:2px solid black;
+        font-size:24px;
+        width:40px;
+        }
+#main {
+        margin-left:250px;
+        width:500px;
+        overflow:hidden;	
+        padding-left:50px;	
+}			
+
+#main #tb {
+                width:300px;			
+        }
+#ins p {
+        text-decoration:underline;
+        color:red;	
+        }
+			
+#choose p {
+        text-decoration:underline;
+}
+#choose a {
+        text-decoration:none;
+}
+a:hover {
+        color:red;
+}
+#step{
+        font-size:24px;
+        font-weight:bold;
+}
