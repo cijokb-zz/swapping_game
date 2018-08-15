@@ -1,6 +1,6 @@
 SWAPPING GAME
     
-This is a small game built using pure javscript.The ultimate aim is to order the numbers corect order.The numbers can be swapped with the empty cell.No diagonal movement is possible.The swapping is done by first selectiing the number to be swapped and the use the appropriate arrow key to swap the number.
+This is a small game built using Reactjs.The ultimate aim is to order the numbers corect order.The numbers can be swapped with the empty cell.No diagonal movement is possible.The swapping is done by first selectiing the number to be swapped and the use the appropriate arrow key to swap the number.
 
 Features:
 
